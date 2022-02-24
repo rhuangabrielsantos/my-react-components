@@ -1,6 +1,6 @@
 {
   "name": "dcc-design-system",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "dependencies": {
     "@stitches/react": "^1.2.6",
     "@types/node": "^16.7.13",
@@ -70,6 +70,6 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/Decided-Christianity-Church/dcc-design-system"
+    "url": "https://github.com/rhuangabrielsantos/my-react-components"
   }
 }
