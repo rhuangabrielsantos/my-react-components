@@ -1,6 +1,6 @@
 {
   "name": "rgs-components",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "dependencies": {
     "@stitches/react": "^1.2.6",
     "@types/node": "^16.7.13",
