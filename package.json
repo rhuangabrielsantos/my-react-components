@@ -1,6 +1,6 @@
 {
-  "name": "dcc-design-system",
-  "version": "0.1.1",
+  "name": "rgs-components",
+  "version": "0.1.0",
   "dependencies": {
     "@stitches/react": "^1.2.6",
     "@types/node": "^16.7.13",
@@ -70,6 +70,6 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/rhuangabrielsantos/my-react-components"
+    "url": "https://github.com/rhuangabrielsantos/rgs-components"
   }
 }
